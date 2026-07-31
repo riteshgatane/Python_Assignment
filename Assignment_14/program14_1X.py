@@ -1,6 +1,4 @@
-def Square(Side):
-    Ans  = Side*Side
-    return Ans 
+Square = lambda Side : (Side*Side)
 
 def main():
     A = int(input("Enter the Number for doing the Square:"))
