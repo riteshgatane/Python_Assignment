@@ -7,10 +7,6 @@ def Display(FileName):
 
     for i in Line:
         print(i)
-
-
-
-
 def main():
     print("Enter the FileName")
     FileName = input()
